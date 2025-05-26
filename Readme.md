@@ -1,1 +1,1 @@
-# Video Streamin app using Node,Express and mongoDB
+# Video Streaming app using Node,Express and mongoDB
