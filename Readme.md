@@ -1,1 +1,1 @@
-# Video Streamin app using Node,Expressand mongoDB
+# Video Streamin app using Node,Express and mongoDB
